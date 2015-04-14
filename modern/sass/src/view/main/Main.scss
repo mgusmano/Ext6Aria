@@ -1,0 +1,14 @@
+.x-tabbar.x-docked-top .x-tab {
+    .x-button-icon:before {
+        font-family: FontAwesome;
+        font-size: 1.2em;
+        line-height: 1.2em;
+        vertical-align: middle;
+    }
+
+    &.x-tab-icon .x-button-label {
+        padding: 0;
+        top: 0;
+        vertical-align: middle;
+    }
+}
